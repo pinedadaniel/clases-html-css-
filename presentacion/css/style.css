@@ -1,0 +1,102 @@
+
+#iconBack{
+float: left;
+
+}
+#title{
+  
+  font:bold 33px "Poppins";
+}
+
+
+div ul li{
+    display: inline;
+    padding-right: 150px;
+    font:bold 16px "Poppins";
+    color: gray;
+    margin-left: 0;
+}
+
+#info ul li{
+    display: inline;
+    padding-right: 37px;
+    font:bold 19px "Poppins";
+    color: black;
+    margin-bottom: 40px;
+   
+}
+
+
+#titleOrder{
+    display: block;
+    font:bold 23px "Poppins";
+}
+#confirmation{
+   
+    display: block;
+    font:bold 13px "Poppins";
+}
+nav{
+   margin-left: 10px;
+    border-radius: 10px;
+    border-left:4px solid lightgray;
+    border-right:2px solid gray;
+    padding: 2px;
+    border-bottom:3px solid gray;
+    border-top:4px solid lightgray;
+    box-shadow: 8px 10px 0px  0px lightgray;
+    
+
+}
+
+#titleOrder a{
+    text-decoration: none;
+    margin-left: 10px;
+    font:bold 23px "Poppins";
+    color: green;
+}
+#confirmation a {
+    text-decoration: none;
+    margin-left: 20px;
+    font:bold 14px "Poppins";
+    color: orange;
+}
+
+#description a {
+    color: black;
+    margin-left: 5px;
+    font:bold 14px "Poppins";
+    text-decoration: none;
+}
+
+#titleKitchen {
+   
+    margin-left: 20px;
+    font:bold 23px "Poppins";
+    color: gray;
+}
+#recipe {
+   
+    margin-left: 20px;
+    font:bold 13px "Poppins";
+    color: gray;
+}
+#confirmation2 {
+   
+    margin-left: 20px;
+    font:bold 14px "Poppins";
+    color: gray;
+}
+
+#titlePacked{
+   
+    margin-left: 20px;
+    font:bold 20px "Poppins";
+    color: gray;
+}
+
+#titleWay{
+    margin-left: 20px;
+    font:bold 23px "Poppins";
+    color: gray;
+}
